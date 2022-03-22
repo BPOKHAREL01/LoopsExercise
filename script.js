@@ -72,7 +72,7 @@ console.log(magic);
 console.log("||||||||||||||||||||");
 
 //7.
-for (let i = 1; i <=25, i++){
+for (let i = 1; i <=25; i++){
     if (i%3===0 && i%5===0) {
         console.log("Expecto Patronum");
     }
